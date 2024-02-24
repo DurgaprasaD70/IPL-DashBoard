@@ -1,0 +1,42 @@
+.latest-match-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-top: 10px;
+  color: #fff;
+  background-color: #0f172a;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: bree serif;
+}
+
+.venure-date-container {
+  align-self: center;
+  width: 35%;
+}
+
+.date {
+  font-size: 27px;
+}
+
+.image-container {
+  width: 27%;
+  display: flex;
+}
+
+.competingteam-logo {
+  width: 100%;
+  align-self: center;
+}
+
+.sub-headings {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.match-innings-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 35%;
+}

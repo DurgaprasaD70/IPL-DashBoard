@@ -1,0 +1,38 @@
+.match-card-container {
+  width: 30%;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f172a;
+  padding: 20px;
+  border-radius: 7px;
+  flex-grow: 1;
+  color: #fff;
+  font-family: bree serif;
+}
+
+.competing-recent-match-image {
+  width: 120px;
+  height: 120px;
+}
+
+.competing-team-name {
+  font-size: 24px;
+  text-align: center;
+}
+
+.result-text {
+  text-align: center;
+}
+
+.game-status {
+  color: #e31a1a;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.greenstatus {
+  color: #18ed66;
+}
